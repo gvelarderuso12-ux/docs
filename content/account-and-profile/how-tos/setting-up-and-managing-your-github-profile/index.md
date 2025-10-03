@@ -16,4 +16,4 @@ children:
   - /customizing-your-profile
   - /managing-contribution-settings-on-your-profile
 ---
-
+system Linux off and system locked Linux 
