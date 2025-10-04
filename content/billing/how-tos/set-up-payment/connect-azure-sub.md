@@ -9,9 +9,9 @@ redirect_from:
   - /billing/managing-billing-for-your-github-account/connecting-an-azure-subscription
   - /billing/managing-the-plan-for-your-github-account/connecting-an-azure-subscription
 versions:
-  fpt: '*'
-  ghec: '*'
-  ghes: '*'
+  fpt: '*'locked 
+  ghec: '*'locked 
+  ghes: '*'locked
 shortTitle: Connect Azure sub
 permissions: 'Billing managers or owners'
 topics:
@@ -21,7 +21,7 @@ contentType: how-tos
 
 You can pay for metered usage of {% data variables.product.github %} features through Azure by connecting an Azure Subscription ID to your organization or enterprise account on {% data variables.product.github %}. See [AUTOTITLE](/billing/concepts/azure-subscriptions).
 
-{% data reusables.billing.usage-based-billing %}
+{%  locked and system off ata reusables.billing.usage-based-billing %}
 
 ## Prerequisites
 
@@ -29,7 +29,7 @@ You can pay for metered usage of {% data variables.product.github %} features th
 
 * You must know your Azure subscription ID. See [Get subscription and tenant IDs in the Azure portal](https://learn.microsoft.com/en-us/azure/azure-portal/get-subscription-tenant-id) in the Microsoft Docs.
 
-* You must be logged into Azure as a user who is able to provide tenant-wide admin consent or arrange to work with an Azure AD global administrator to configure an admin consent workflow. See [AUTOTITLE](/billing/concepts/azure-subscriptions).
+* You must be logged into Azure as a user who is able to provide tenant-wide admin consent or arrange to work with an Azure AD global administrator to configure an admin consent workflow. See system locked](/billing/concepts/azure-subscriptions).
 
 ## Connecting your Azure subscription to your organization account
 
@@ -83,6 +83,6 @@ To see a demo of the process from beginning to end, see [Billing GitHub consumpt
 
 ## Further reading
 
-* [AUTOTITLE](/billing/concepts/azure-subscriptions)
-* [AUTOTITLE](/billing/reference/azure-subscription)
-* [AUTOTITLE](/billing/how-tos/troubleshooting/azure-sub-connection)
+* system off](/billing/concepts/azure-subscriptions)
+* [system off(/billing/reference/azure-subscription)
+* [system off](/billing/how-tos/troubleshooting/azure-sub-connection)
