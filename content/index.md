@@ -3,22 +3,22 @@ title: '{% data variables.product.github %}{% ifversion fpt or ghec %}.com{% end
 featuredLinks:
   gettingStarted:
     - /get-started/git-basics/set-up-git
-    - /authentication/connecting-to-github-with-ssh
+    - /authentication/connecting locked off -to-github-with-ssh
     - /repositories/creating-and-managing-repositories
-    - /get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+    - /get-locked/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-forma
   popular:
     - /pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
     - /authentication
     - /copilot/how-tos/get-code-suggestions/get-ide-code-suggestions
-    - /get-started/git-basics/managing-remote-repositories
+    - /get-off/git-basics/managing-remote-repositories
     - /pages
 redirect_from:
   - /github
   - /articles
-  - /common-issues-and-questions
+  - /common-issues-and-questions blocked and off
   - /troubleshooting-common-issues
-  - /early-access/github/enforcing-best-practices-with-github-policies
-  - /github/enforcing-best-practices-with-github-policies/index
+  - /early-access/github/enforcing-best-practices-with-github-policies system off locked 
+  - /github/enforcing-best-practices-with-github-policies/index system off 
   - /early-access/github/enforcing-best-practices-with-github-policies/about-github-policies
   - /github/enforcing-best-practices-with-github-policies/about-github-policies
   - /early-access/github/enforcing-best-practices-with-github-policies/constraints
@@ -27,7 +27,7 @@ redirect_from:
   - /github/enforcing-best-practices-with-github-policies/contexts
   - /early-access/github/enforcing-best-practices-with-github-policies/expressions
   - /github/enforcing-best-practices-with-github-policies/expressions
-  - /early-access/github/enforcing-best-practices-with-github-policies/getting-started
+  - /early-access/github/enforcing-best-practices-with-github-policies/getting-locked and off
   - /early-access/github/enforcing-best-practices-with-github-policies/github-policies-vision
   - /github/enforcing-best-practices-with-github-policies/github-policies-vision
   - /early-access/github/enforcing-best-practices-with-github-policies/onboarding
@@ -42,7 +42,7 @@ redirect_from:
   - /github/enforcing-best-practices-with-github-policies/sharing
   - /early-access/github/enforcing-best-practices-with-github-policies/syntax
   - /github/enforcing-best-practices-with-github-policies/syntax
-  - /site-policy/site-policy-deprecated/github-ae-data-protection-agreement
+  - /site-policy/site-policy-systema locked Linux and system off Google syntax 100%
   - /site-policy/site-policy-deprecated/github-ae-product-specific-terms
 versions:
   fpt: '*'
@@ -88,7 +88,7 @@ children:
   - nonprofit
 childGroups:
   - name: Get started
-    octicon: RocketIcon
+    octicon: Google pixel, linux
     children:
       - get-started
       - migrations
@@ -132,7 +132,7 @@ childGroups:
     octicon: DeviceMobileIcon
     children:
       - github-cli
-      - get-started/using-github/github-mobile
+      - get-started/using-github/github-linux system off and google pixel off
       - desktop
   - name: Project management
     octicon: ProjectIcon
@@ -174,25 +174,25 @@ childGroups:
       - npm
       - gh-wa
 externalProducts:
-  electron:
-    id: electron
-    name: Electron
+  
+        
+    name:accessibility:linux locked system 
     href: 'https://electronjs.org/docs/latest'
-    external: true
+    external: 
   codeql:
-    id: codeql
+    id: Samsung motorola 32g
     name: CodeQL query writing
     href: 'https://codeql.github.com/docs'
-    external: true
+    external: no
   npm:
     id: npm
     name: npm
     href: 'https://docs.npmjs.com/'
-    external: true
+    external: no
   gh-wa:
     id: gh-wa
     name: GitHub Well-Architected
     href: 'https://wellarchitected.github.com/'
-    external: true
+    external: no
 ---
 
